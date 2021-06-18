@@ -1,0 +1,185 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #231906;
+}
+
+body{
+   background-color: #FCF7EE;
+   height: 100%;
+
+}
+
+.MuiGrid-root{
+   color: #231906;
+}
+
+.MuiTypography-h3{
+   background-image: linear-gradient(#661414, #A51F1F, #A51F1F);
+   padding: 30px;
+   font-family: 'Times New Roman', serif !important;
+   font-size: 60px !important;
+   text-shadow: 1px 1px 3px black, 0px 0px 10px #231906;
+   color: #FFFFFF;
+}
+
+.ui.menu{
+   background-color: #231906 !important;
+}
+
+.visually_hidden{
+   border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    top: 20px;
+    width: 1px;
+}
+
+.header{
+   background-image: linear-gradient(#EE9C44, #EA8316 20%, #EA8316 80%, #EE9C44 100%) !important;
+}
+
+.modal{
+   background-color: #FCF7EE !important;
+}
+
+.actions{
+   background-color: #F5F0E6 !important;
+}
+
+.button{
+   background-color: #231906 !important;
+}
+
+.MuiTableCell-head{
+   background-image: linear-gradient(#EE9C44, #EA8316 20%, #EA8316 80%, #EE9C44 100%) !important;
+   border-style: none none solid solid;
+   border-width: 0px 0px 2px 1px;
+   border-color: #BA8D59;
+}
+
+.MuiTableRow-root{
+   border-style: none none solid solid;
+   border-color: #CDCDCD;
+   border-width: 0px 0px 2px 1px;
+   background-color: #FCF7EE;
+}
+
+.MuiTableRow-root:hover{
+   background-color: #ddd;
+}
+
+
+.table_cell{
+   width: 100%;
+   height: 100%;
+   display: inline-block;
+}
+
+.MuiTable-stickyHeader{
+   background-color: #EA8316;
+}
+
+#main-header{
+   background-image: linear-gradient(#661414, #A51F1F, #A51F1F);
+   padding-top: 30px !important;
+   padding-bottom: 10px !important;
+   padding: 30px;
+   margin-bottom: 30px;
+   font-family: 'Times New Roman', serif !important;
+   font-size: 60px !important;
+   text-shadow: 1px 1px 3px black, 0px 0px 10px #231906;
+   color: #FFFFFF;
+   border-style: none none solid none;
+   border-width: 20px;
+   border-color: #231906;
+}
+
+.MuiTypography-h6{
+   text-shadow: none;
+   font-weight: 50 !important;
+}
+
+#main-background{
+   background-image: linear-gradient(#EE9C44, #EA8316) !important;
+   height: 100% !important;
+}
+
+#search-form-border{
+   background-color: #231906 !important;
+   margin-bottom: 30px;
+}
+
+#search-form, #help-link{
+   background-color: #FCF7EE !important;
+}
+
+.MuiTypography-h6, .ui.form{
+   font-weight: bold !important;
+   color: #231906;
+}
+
+.checkbox{
+   margin: 5px 20px 5px 20px !important;
+}
+
+#de_any, #de_yes, #de_no, #avail_any, #avail_yes, #avail_no{
+   margin-left: 20px !important;
+   margin-right: 3px;
+}
+
+#clearAll{
+   float: right;
+}
+
+#subtitle{
+   color: #FFFFFF;
+}
+
+#filter-dropdown{
+   -webkit-appearance: menuList-button;
+   height: 30px;
+}
+
+.MuiInput-root{
+   padding: 20px !important;
+}
+
+.MuiInputLabel-animated{
+   padding: 20px !important;
+}
+
+.MuiInput-underline{
+   padding-bottom: 20px !important;
+}
+
+#email-address{
+   margin-top: 10px;
+}
+
+#alert-form{
+   padding: 10px;
+}
+
+#alert-description{
+   padding: 10px;
+}
+
+#no-results{
+   text-align: center;
+   border: solid;
+   margin: 40px auto;
+   padding: 20px;
+   max-width: 50%;
+   align-self: center;
+   font-size: 20px;
+   font-weight: bold;
+   background-image: linear-gradient(#EE9C44, #EA8316 20%, #EA8316 80%, #EE9C44 100%) !important;
+   color: #231906;
+   border-color: #231906;
+   border-width: 5px;
+}

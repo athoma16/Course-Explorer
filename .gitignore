@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Misc
+.idea/
+*.log
+*.json
+*.pdf
+*.bin
+
+# docs
+*.csv
+*.xlsx
+*.doc
+
+# Django
+www/demo_uwsgi.ini
+www/uwsgi_params
+www/db.sqlite3
+www/static/admin
+www/demo/__pycache__
+
+#DS_Store
+.DS_Store
+
+#React
+Frontend_react_UI/build/
+Frontend_react_UI/node_modules/
+Frontend_react_UI/node_modules/.cache/.eslintcache
+Frontend_react_UI/build/
+Frontend_react_UI/package-lock.json
+Frontend_react_UI/package-lock.json.bak

@@ -1,0 +1,893 @@
+Art .............................................................................................................. 702
+Theatre Studies .................................................................................................... 706
+Toxicology ............................................................................................................ 709
+Veterinary Medicine ............................................................................................ 710
+Women's Studies .................................................................................................. 713
+Zoology .................................................................................................................. 714
+Revision: 2020-2021 Undergraduate Calendar
+Table of Contents i
+XII. Course Descriptions
+General Information
+Course Labelling and Levels
+Each course is identified by a two-part code. The first part of the code refers to the subject
+area, the second to the level of the course. Thus, the course PSYC*3570 is a course in the
+subject area of Psychology (PSYC*XXXX), and is of a level that places it among courses
+in the 3000 series. The series 1000, 2000, 3000 and 4000 numbers are intended to indicate
+progressively more demanding content, and correspondingly increasing competence on
+the part of the students enrolled in the course. Courses in the 1000 series are mainly for
+first year students, those in the 2000 series are mainly for second year students, and those
+in the 3000 series are for third year students. Similarly, courses in the 4000 series are
+mainly intended to be taken by students in the fourth year of honours programs. It is
+important that students planning their courses have clearly in mind the significance of
+these numbers so that they may guard against undertaking course work at levels for which
+they are insufficiently prepared. A two-semester course (e.g. AGR*2351/2) is taken over
+2 continuous semesters and counts as 1 course attempt per semester for classification,
+continuation of study and calculation of fees. Two-semester courses cannot be split.
+Course Information
+The letters S, F, W indicate the University's intention to offer the course in the Summer
+(S), Fall (F) or Winter (W) semester during the academic year covered by this Calendar.
+Although courses normally will be offered in the semester indicated, students preparing
+their course programs are advised to consult the Undergraduate Course Timetable. The
+University cannot guarantee that all courses will be offered in the exact semester indicated.
+The letter U indicates that an intended offering has not been assigned to the course.
+Students should consult the Undergraduate Course Timetable posted on WebAdvisor or
+contact the departments offering those courses to determine the semester offerings.
+The figures in parentheses ( ) following the semester designation are a general guide to
+the lecture and laboratory contact hours per week, the first digit being the number of
+lecture hours and the second, the number of laboratory hours. The credit weight for each
+course appears in brackets [ ]. A credit weight of [0.50] indicates 10-12 student effort
+hours, including class time, on academic tasks associated with the course.
+Detailed course descriptions are maintained at the office of the department offering the
+course. Some courses, designated "Experiential Learning" courses in the Calendar
+description, are deliberately designed to accommodate the need to grant academic credit
+for experiential learning external to regular courses, in such contexts as co-operative
+education, field observation/job shadowing, internship/externships, practical, service
+learning, or work study (and other approved experience). Prior approval for admission to
+these courses must be obtained from the department and instructor concerned.
+Course Prerequisites
+In lists of course prerequisites, "or" conditions are spelled out explicitly, but "and"
+conditions are indicated with a comma "," . For example: "CSTU*2270, FRHD*2010,
+NUTR*2010" means "CSTU*2270 and FRHD*2010 and NUTR*2010". A number of
+courses have stated prerequisites which are prior requirements for entry to the course.
+Students who do not satisfy course prerequisites, or who in the opinion of the instructor
+do not possess an equivalent background to that of the stated prerequisites, are not eligible
+to enroll in the course. When some specific background is desirable but not required, the
+course description will include a statement of recommended background. It is understood
+that the instructor may accept equivalent courses from other institutions in place of the
+stated prerequisites. Students who wish to enroll in courses for which they do not have
+the stated prerequisite(s) must obtain instructor approval as outlined in Section VIII,
+Undergraduate Degree Regulations and Procedures, in this Calendar.
+Course Equates and Restrictions
+Equates - Equate indicates a course identical to the one under which it is listed. The
+course may have been re-numbered or may be cross-listed under two subject areas.
+Students will not be permitted to register in equated courses.
+Restrictions - A restriction is a "rule" that is placed on the computer system (Colleague)
+at the direction of an academic department so that particular students may not register in
+particular courses. The course may be restricted because there is sufficient over-lap in
+content with another course so that it is inappropriate for the student to take a similar
+course for credit. In a different instance, the course may be restricted by "Instructor
+Consent" so that the student must discuss the special requirements of the course with the
+instructor before enrolling. Or, alternatively, the restriction may reflect a "PriorityAccess"
+designation for enrolment management purposes. (See Priority Access).
+2020-2021 Undergraduate Calendar Revision:
+536 XII. Course Descriptions
+Accounting
+Department of Management
+ACCT*1220 Introductory Financial Accounting F,W (3-0) [0.50]
+This introductory course is designed to develop a foundational understanding of current
+accounting principles and their implication for published financial reports of business
+enterprises. It builds the base of knowledge and understanding required to succeed in
+more advanced study of accounting. The course approaches the subject from the point
+of view of the user of accounting information rather than that of a person who supplies
+the information.
+Offering(s): Also offered through Distance Education format.
+Restriction(s): ACCT*2220 , This is a Priority Access Course. Enrolment may be
+restricted to particular programs or specializations. See department for
+more information.
+Department(s): Department of Management
+ACCT*1240 Applied Financial Accounting W (3-0) [0.50]
+This course requires students to apply the fundamental principles emanating from
+accounting’s conceptual framework and undertake the practice of financial accounting.
+Students will become adept at performing the functions related to each step in the
+accounting cycle, up to and including the preparation of the financial statements and
+client reports. Students will also develop the skills necessary for assessing an
+organization’s system of internal controls and financial conditions.
+Prerequisite(s): ACCT*1220 or ACCT*2220
+Restriction(s): ACCT*2240 , This is a Priority Access Course. Enrolment may be
+restricted to particular programs or specializations. See department for
+more information.
+Department(s): Department of Management
+ACCT*2230 Management Accounting F,W (3-0) [0.50]
+This course emphasizes the use of accounting information to facilitate effective
+management decisions. Topics include cost determination, cost control and analysis,
+budgeting, profit-volume analysis and capital investment analysis.
+Prerequisite(s): ACCT*1220 or ACCT*2220
+Equate(s): AGEC*2230 , BUS*2230
+Restriction(s): This is a Priority Access Course. Enrolment may be restricted to
+particular programs or specializations. See department for more
+information.
+Department(s): Department of Management
+ACCT*3230 Intermediate Management Accounting S,W (3-0) [0.50]
+This course continues the managerial decision making focus of ACCT*2230. Topics
+include process costing, transfer pricing, the decision making process, variances and
+performance measurement.
+Offering(s): Also offered through Distance Education format.
+Prerequisite(s): ACCT*2230
+Equate(s): BUS*3230
+Restriction(s): Enrolment may be restricted to particular degrees or programs. See
+department for more information.
+Department(s): Department of Management
+ACCT*3280 Auditing I S,F (3-0) [0.50]
+Auditing I is an examination of the principles and theory underlying the practice of
+auditing. Concepts of materiality and audit risk are examined and discussed. Sources and
+techniques for gathering auditing evidence will also be examined. Modern organizations
+rely on information systems, technology and internal controls to manage and monitor
+their operations and the impact of these systems on the quality of information produced
+and on the scope of audits are important elements of this course.
+Prerequisite(s): ACCT*3330
+Department(s): Department of Management
+ACCT*3330 Intermediate Financial Accounting I F,W (3-0) [0.50]
+This course presents a critical evaluation of accounting concepts, principles and practices
+in relation to both the traditional and current value accounting measurement models.
+Emphasis will be on the effect of alternative accounting practices and measurement
+models on income determination and asset valuation.
+Offering(s): Also offered through Distance Education format.
+Prerequisite(s): ACCT*1220 or ACCT*2220
+Equate(s): BUS*3330
+Restriction(s): This is a Priority Access Course. Enrolment may be restricted to
+particular programs or specializations. See department for more
+information.
+Department(s): Department of Management
+ACCT*3340 Intermediate Financial Accounting II S,F (3-0) [0.50]
+This course focuses on how entities account for current and non-current liabilities and
+equity accounts, including, income taxes, leases, pensions and other post retirement
+benefits, share equity and retained earnings, stock options.Additional topics may include
+earnings per share, restatements and statement analysis.
+Prerequisite(s): ACCT*3330
+Department(s): Department of Management
+ACCT*3350 Taxation S,F (3-0) [0.50]
+The fundamentals of the tax system as it applies to all taxpayers will be the focus of the
+first half of the course. The second half will develop forms of business organizations
+from a tax perspective. Basic tax planning techniques which attempt to maximize the
+cash flows and returns on investments will then be studied. The emphasis in the course
+is on business decision making. A review of personal financial planning and investment
+decisions will also be included.
+Prerequisite(s): ACCT*3330
+Restriction(s): Enrolment may be restricted to particular degrees or programs. See the
+department for more information.
+Department(s): Department of Management
+ACCT*4220 Advanced Financial Accounting F (3-0) [0.50]
+This course is a critical evaluation of issues and problems associated with business
+combinations, long-term intercorporate investments, foreign operations and accounting
+for not-for-profit organizations. There is a strong emphasis on applying this body of
+knowledge through practical problems.
+Prerequisite(s): (ACCT*3330 or BUS*3330 ), (ACCT*3340 or BUS*3340 )
+Equate(s): BUS*4220
+Restriction(s): Enrolment may be restricted to particular degrees or programs. See the
+department for more information.
+Department(s): Department of Management
+ACCT*4230 Advanced Management Accounting W (3-0) [0.50]
+This course provides advanced coverage of management accounting concepts and the
+application of management accounting information for managerial decision-making. This
+course extends the concepts covered in intermediate management accounting and also
+integrates pertinent situational problems from other functional areas of enterprises such
+as global trade and process controls.
+Prerequisite(s): ACCT*3230 or BUS*3230
+Equate(s): BUS*4230
+Restriction(s): Enrolment may be restricted to particular degrees or programs. See the
+department for more information.
+Department(s): Department of Management
+ACCT*4270 Auditing II F (3-0) [0.50]
+This course considers a number of advanced topics concerning both the auditor and audit
+techniques within the context of public accounting. It builds on the knowledge of the
+audit task derived in Auditing I - ACCT*3280 as well as the depth and breadth of
+knowledge gained in ACCT*3330 and ACCT*3340.
+Prerequisite(s): ACCT*3280 or BUS*3280
+Equate(s): BUS*4270
+Department(s): Department of Management
+ACCT*4290 IT Auditing and Data Analytics W (3-0) [0.50]
+This course introduces the student to the field of auditing within a computer based
+environment. Students will develop an enhanced understanding of information systems,
+information system risks, management controls, control evaluation, audit strategies, and
+computer assisted audit techniques. The course will also introduce data analytic techniques
+used to analyze structured and unstructured data.
+Prerequisite(s): ACCT*3280 or BUS*4280
+Equate(s): BUS*4290
+Department(s): Department of Management
+ACCT*4340 Accounting Theory W (3-0) [0.50]
+This course will draw on accounting research, primarily empirical research. Rather than
+covering specific GAAP rules, the course will focus on how investors react to GAAP
+rules, why financial information is important, and how its use/misuse affects investor
+decision making and management behaviour. The course is thus about accounting, instead
+of about how to apply accounting standards.
+Prerequisite(s): ACCT*4220
+Restriction(s): ACCT*4240 .
+Department(s): Department of Management
+Revision: 2020-2021 Undergraduate Calendar
+XII. Course Descriptions, Accounting 537
+ACCT*4350 Income Taxation II F (3-0) [0.50]
+An intensive study of the Canadian Income Tax Act and related statutes, this course will
+focus on the application to the taxation of individuals, partnerships and corporations. A
+strong emphasis will be placed on compliance and tax planning.
+Prerequisite(s): ACCT*3350 or BUS*3350
+Equate(s): BUS*4350
+Department(s): Department of Management
+ACCT*4440 Integrated Cases in Accounting W (3-0) [0.50]
+This course will help students develop an analytical approach to analyzing accounting
+problems and improve professional judgement. Students will apply previously-gained
+technical knowledge of accounting, tax, assurance, finance, and corporate governance
+to various financial reporting and advisory problems and scenarios. They will develop
+an enhanced understanding of the impact of user and preparer objectives on the selection
+of accounting policies, and accounting estimates in an environment of some uncertainty.
+Prerequisite(s): ACCT*4220
+Restriction(s): ACCT*4240 .
+Department(s): Department of Management
+2020-2021 Undergraduate Calendar Revision:
+538 XII. Course Descriptions, Accounting
+Agriculture
+Ontario Agricultural College, Dean's Office
+AGR*1110 Introduction to the Agri-Food Systems F (6-0) [1.00]
+This introductory course provides an overview of Canadian and global agri-food systems.
+Students will be introduced to many different facets of agriculture, including primary
+production (conventional and organic) of commodity, mid-value and high-value crops,
+and livestock. Students will explore the agri-food system by tracing consumer end-products
+back to primary production. Modern, industrial agri-food systems as well as subsistence
+farming will be discussed. The course incorporates an experiential learning component
+in which students will explore a new agri-food opportunity for Ontario by designing and
+assessing the value chain.
+Restriction(s): AGR*1100 . AGR*1250 . Restricted to students in BAH.FARE,
+BSC(AGR), Minor in Agriculture
+Department(s): Department of Plant Agriculture, Department of Animal Biosciences
+Location(s): Guelph
+AGR*2050 Agroecology W (3-0) [0.50]
+This course considers the interactions of all important biophysical, technical and
+socioeconomic components of farming systems and examines these systems as the
+fundamental units of study. Mineral cycles, energy transformations, biological processes
+and socioeconomic relationships are analyzed as a whole in an interdisciplinary fashion.
+Prerequisite(s): (AGR*1110 or AGR*2150), (BIOL*1050 or BIOL*1070)
+Restriction(s): CROP*2110
+Department(s): Department of Plant Agriculture, Department of Animal Biosciences
+AGR*2150 Plant Agriculture for International Development F (3-0) [0.50]
+This course will provide students interested in international development with an
+introductory mechanistic understanding of the biology underlying crop production in
+developing nations. Emphasis will be placed on simple, low-cost solutions from biology
+that have the potential to aid efforts in international development. This course is accessible
+to science and non-science students.
+Prerequisite(s): 4.00 credits
+Restriction(s): AGR*2470
+Department(s): Department of Plant Agriculture
+AGR*2320 Soils in Agroecosystems F (3-2) [0.50]
+This course is an introduction to soil resources with emphasis on management practices
+that will sustain the productivity of these resources and enhance the quality of the
+ecosystems of which they are a part. Students will develop a management plan for a farm
+that will take into account the roles of geological, geomorphological, biological, climatic
+and temporal factors on the formation, properties and uses of soils. The management
+plans will be placed in the broader context of provincial policies related to soil, air and
+water resources and local zoning regulations.
+Prerequisite(s): 2.50 credits
+Restriction(s): ENVS*2060 or SOIL*2010
+Department(s): School of Environmental Sciences
+AGR*2350 Animal Production Systems, Health and Industry F (3-3) [0.50]
+This course is designed to introduce the student to the Agri-food system in Ontario,
+nationally and internationally. All major animal industries will be covered starting from
+the grocery store and working back to the primary producer. Companion and exotic
+animals will also be covered. Topics include food, health and wellness (domestic animals
+and human), nutrition, housing, genetics, reproduction, husbandry practices and processing.
+. The course includes laboratories and animal production unit tours.
+Prerequisite(s): BIOL*1030 or (2 of BIOL*1050, BIOL*1070, BIOL*1080,
+BIOL*1090)
+Department(s): Department of Animal Biosciences
+AGR*2470 Introduction to Plant Agriculture F (3-3) [0.50]
+The basic principles of plant morphology, nutrition, growth and development will be
+related to where and how agriculturally significant plants are grown. Agroecosystems
+and farming systems will be considered as frameworks for crop production analyses. The
+course uses examples from temperate, sub-tropical and tropical crops and cropping
+systems. Labs include problem-solving exercises in the context of plant production.
+Prerequisite(s): BIOL*1050 or BIOL*1070
+Restriction(s): AGR*2150
+Department(s): Department of Plant Agriculture
+AGR*2500 Field Course in International Agriculture W (3-0) [0.50]
+This course introduces students to a wide range of tropical and subtropical agricultural
+production systems and issues. The course is comprised of a weekly 3 hour evening
+lecture and a two week field trip to Costa Rica where students will visit corporate and
+individual farms, university and government research stations. The field trip occurs during
+Reading Week in February. This course must be recorded as part of your Winter course
+selection. The cost of the course is approximately $3200.00 per student, in addition to
+tuition and compulsory fees. Students must identify their interest in taking this course
+by contacting the instructor before the October course selection period of the previous
+year. In order to confirm reservations for travel arrangements a deposit of $300 in the
+form of a cheque, made payable to the University of Guelph, must be submitted to the
+Department of Plant Agriculture Undergraduate Program Assistant in the Crop Science
+building, room 306 by November. Some financial support for travel may be available.
+Prerequisite(s): (AGR*1110 or AGR*1250 ) or registration in International
+Development
+Restriction(s): Registration in BSC(AGR) or BA.ID or Minor inAgriculture Instructor
+consent required.
+Department(s): Department of Plant Agriculture
+AGR*3010 Special Studies in Agricultural Science I S,F,W (3-0) [0.50]
+A special study option that enables undergraduate students in semesters 5 through 8 to
+undertake specific projects in agricultural sciences. The topic of the special study will
+be determined in consultation with an faculty member and the individual student. Students
+are responsible for making appropriate arrangements with faculty at the departmental
+and/or college level prior to registration for the course.
+Prerequisite(s): 10.00 credits
+Restriction(s): Instructor consent required.
+Department(s): Department of Plant Agriculture
+AGR*3450 Research Methods in Agricultural Science F (3-2) [0.50]
+This course provides students with an opportunity to enhance their understanding of the
+principles and processes of agricultural research. The course will provide students with
+a foundation in critical thinking, experimental design and data analysis that will be
+applicable to independent research projects and graduate studies. Students will also
+explore the practical requirements and limitations of scientific research. Laboratory and
+field safety, animal care, intellectual property and research ethics will be reviewed.
+Students will be required to practice both oral presentation and writing skills as core
+components of their evaluation.
+Prerequisite(s): Completion of 7.50 credits including (1 of GEOG*2460, STAT*2040
+, STAT*2060, STAT*2080)
+Restriction(s): Enrollment in the BSC(AGR), BBRM, BSC.ABIO, BSC.PLSC or
+Minor in Agriculture.
+Department(s): Department of Plant Agriculture, Department of Animal Biosciences
+AGR*3500 Experiential Education F (3-0) [0.50]
+Student initiated experiential learning opportunities can be developed as a credit course
+in consultation with the course instructor. Students who find suitable employment in their
+chosen industry related to food, agriculture and environment over a summer semester
+can receive credit while completing the requirements for this course. This course is
+designed to run from May until November, with registration in the Fall semester. Students
+must confirm participation in this course by May 1st, prior to starting their summer
+employment. The course is designed to meet the needs of B.Sc.(Agr.), BBRM and
+Agricultural Business students. Department of Plant Agriculture.
+Prerequisite(s): 5.00 credits
+Restriction(s): Instructor consent required.
+Department(s): Department of Plant Agriculture
+AGR*4010 Special Studies in Agricultural Science II S,F,W (3-0) [0.50]
+This special study option enables undergraduate students in semesters 5 through 8 to
+undertake specific projects in agricultural science. The topic of the special study will be
+determined in consultation with a faculty member and the individual student. Students
+are responsible for making appropriate arrangements with faculty member prior to
+registration for the course.
+Prerequisite(s): 15.00 credits
+Restriction(s): Instructor consent required.
+Department(s): Department of Animal Biosciences
+AGR*4020 Precision Techniques for Plant Agriculture F (3-0) [0.50]
+This course will be a survey of principles and applications of technologies supporting
+precision farming and planning for natural resource data management. Topics will include
+Global positioning system (GPS), yield monitoring and mapping, remote sensing,
+geographic information system (GIS), variable rate technologies (VRT), data layering,
+Internet information access, and computer software for management.
+Prerequisite(s): AGR*2470, STAT*2040, (BIOL*1050 or BIOL*1070)
+Department(s): Department of Plant Agriculture
+Revision: 2020-2021 Undergraduate Calendar
+XII. Course Descriptions, Agriculture 539
+AGR*4450 Research Project I S,F,W (0-12) [1.00]
+This course provides for the independent study of a current topic in agricultural or
+environmental science designed to encourage senior undergraduates to conduct research.
+The course includes participation in meetings organized by the coordinator, work with
+a faculty advisor to develop a research project, formulate hypotheses, design and carry
+out preliminary experiments to test the hypotheses. Students will carry out independent
+library research, begin experimental work, prepare a written report and make a presentation
+to other students in the course of the research plan and preliminary results. Students must
+make arrangements with both the faculty supervisor and the course coordinator at least
+one semester before starting the course. This course will normally be followed by
+AGR*4460 to provide 2 semesters to complete the research project.
+Prerequisite(s): 10.00 credits
+Restriction(s): Permission of the course coordinator (contingent on the availability
+and agreement of a faculty advisor). BSC(Agr) or BSC or BBRM, 70%
+cumulative average.
+Department(s): Dean's Office, Ontario Agricultural College
+AGR*4460 Research Project II S,F,W (0-12) [1.00]
+Independent study of a current topic in agricultural or environmental science designed
+to encourage senior undergraduates to conduct research. The focus of this course will be
+the completion of the research plan developed inAGR*4450 by the student in consultation
+with a faculty advisor. The course includes participation in meetings organized by the
+coordinator and meetings with a faculty advisor to review research progress. Students
+will carry out independent research, prepare a written report of the research findings in
+a scholarly style and make a presentation to other students in the course of the research
+results. Open to students in semesters 6, 7 and 8 of the B.SC. (Agr.) or B.Sc. degree
+program.
+Prerequisite(s): AGR*4450
+Restriction(s): Permission of the course coordinator and faculty advisor.
+Department(s): Dean's Office, Ontario Agricultural College
+AGR*4600 Agriculture and Food Issues Problem Solving W (3-0) [1.00]
+The issues facing the agriculture and food sector are many and varied and relate to the
+economy, the environment and society. Within these issues there are problems which
+require thoughtful solutions. Working in teams, with guidance from faculty advisors,
+students will have an opportunity to develop solutions to real-world problems facing the
+agriculture and food sector. In the process students will have an opportunity to develop
+their research, communication, presentation, writing and group work skills.
+Prerequisite(s): 12.50 credits
+Restriction(s): Registration in BSC(AGR), BBRM, B.COMM.FAB, B.COMM.FAB:C,
+BSC.PLSC, or BA.FARE program, or Minor in Agriculture.
+Department(s): Department of Plant Agriculture
+2020-2021 Undergraduate Calendar Revision:
+540 XII. Course Descriptions, Agriculture
+Anatomy
+Department of Biomedical Sciences
+For course listings and descriptions see Biomedical Sciences.
+Additional course listings may be found in the course descriptions for Human Kinetics,
+Veterinary Medicine and Zoology.
+Revision: 2020-2021 Undergraduate Calendar
+XII. Course Descriptions, Anatomy 541
+Animal Science
+Department of Animal Biosciences
+ANSC*1210 Principles of Animal Care and Welfare W (4.5-0) [1.00]
+Students will be introduced to the major ethical theories that deal with humanity's duties
+to animals. The relationship of ethics to science will be discussed. Factors that contribute
+to the quality of life of animals will be considered and methods of assessing animal
+welfare will be described. Common causes of reduced animal welfare will be covered.
+The course will also deal with how different cultures approach animal welfare and attempt
+to regulate it.1
+Prerequisite(s): 1 of BIOL*1050, BIOL*1070, BIOL*1080, BIOL*1090
+Restriction(s): Registration in BSAG, BSCH. ABIO or BBRM.EQM
+Department(s): Department of Animal Biosciences
+ANSC*2340 Structure of Farm Animals W (3-0) [0.50]
+This course is an introduction to anatomy and carcass structure of farm animals.
+Consideration is given to the major systems in the body and the whole range of animal
+structure from molecular biology to commercial carcass grading. The course provides a
+basic understanding of factors such as meat tenderness, adipose development in the
+carcass, abnormalities of meat quality such as PSE pork and dark-cutting beef, and carcass
+composition.
+Offering(s): Also offered through Distance Education format.
+Prerequisite(s): 2 of BIOL*1050, BIOL*1070, BIOL*1080, BIOL*1090
+Department(s): Department of Animal Biosciences
+ANSC*3040 Animal Reproduction W (3-3) [0.50]
+This course takes a multi-species approach to understanding the basic principles of animal
+reproduction. Both the anatomy and the physiology of reproductive systems are explored
+in agricultural, companion and wildlife species with an emphasis on animals under human
+management. In addition, the development and application of assisted reproductive
+technologies (ART) for animal management are introduced.
+Prerequisite(s): ANSC*3080
+Department(s): Department of Animal Biosciences
+ANSC*3050 Aquaculture: Advanced Issues F (3-0) [0.50]
+This course examines the fundamental principles and advanced interdisciplinary issues
+involved in the farming of aquatic organisms. The course will concentrate primarily on
+finfish species due to their worldwide commercial importance. Lectures will cover fish
+physiology, behaviour, nutrition, genetics, water quality, health and disease, reproductive
+techniques, economic, political and legal issues and various culture technologies. Students
+will analyze contemporary challenges facing the aquaculture industry through exercises
+requiring interdisciplinary knowledge, lateral thinking, creative problem solving and
+bridging science and technology to issues management.
+Prerequisite(s): 8.00 credits in biology, including AGR*2350 or ZOO*2090
+Department(s): Department of Animal Biosciences
+ANSC*3080 Agricultural Animal Physiology F (3-1.5) [0.50]
+This course is an introduction to the physiology of domesticated farm animals. The course
+will emphasize homeostatic control of the major body systems. The lectures cover the
+nervous, cardiovascular, respiratory, urinary, immune, endocrine and reproductive systems.
+The lectures and laboratories are closely integrated.
+Prerequisite(s): BIOC*2580 or EQN*2040
+Restriction(s): Registration in BSC(Agr), BSC.ABIO or BBRM.EQM, Minor in
+Agriculture.
+Department(s): Department of Animal Biosciences
+ANSC*3090 Principles of Animal Behaviour F (3-0) [0.50]
+This course deals with why vertebrates behave as they do (with particular emphasis on
+mammals and birds), covering the causation of behaviour (including learning, motivation,
+affective states, hormones, sensory processing, and neurobiological mechanisms); function
+(both immediate/proximate and adaptive/ultimate); ontogeny (including socialization
+and sensitive periods); and phylogeny (especially the influences of taxonomic group and
+domestication). This framework is then applied to the following aspects of animal
+behaviour: foraging, anti-predator responses, sleep, sociality, mating, parental behaviour,
+play, dispersal and territoriality, animal intelligence, and behavioural pathologies.
+Prerequisite(s): ANSC*1210
+Restriction(s): ANSC*4090, Restricted to students in BSCH.ABIO, BSAG.ANSC
+and BBRM.EQM
+Department(s): Department of Animal Biosciences
+ANSC*3120 Introduction to Animal Nutrition F (3-2) [0.50]
+This course applies the principles of nutrition to the development of diets and feeding
+programs for the various species of animals of agricultural importance.
+Co-requisite(s): NUTR*3210
+Restriction(s): Registration in BSC(Agr) or BSC.ABIO
+Department(s): Department of Animal Biosciences
+ANSC*3170 Nutrition of Fish and Crustacea W (3-0) [0.50]
+This course examines growth, digestive and metabolic processes, nutritional requirements
+and practical feeding programs for fish and crustaceans with an emphasis on those species
+used in aquaculture.
+Prerequisite(s): NUTR*3210
+Department(s): Department of Animal Biosciences
+ANSC*3180 Wildlife Nutrition W (3-0) [0.50]
+This course is a study of the nutrition of avian and mammalian wildlife with emphasis
+on North American species and the role of nutrition in survival and population growth
+of wildlife in their natural habitat.
+Prerequisite(s): NUTR*3210
+Department(s): Department of Animal Biosciences
+ANSC*3270 Animal Disorders W (3-0) [0.50]
+This course will highlight common causes of infectious, metabolic and
+psychological/neurological disorders of domestic and companion animals, and their
+potential impact on animal welfare and production. Disorders will be addressed in the
+context of pathophysiology, transmission, and prevention strategies involving
+environmental enrichment, vaccination, biosecurity, nutrition, and genetic selection.
+Prerequisite(s): ANSC*3080
+Department(s): Department of Animal Biosciences
+ANSC*4010 Animal Welfare Judging and Evaluation F (0-3) [0.50]
+This course provides senior level students with a structured opportunity to practice
+assessing animal welfare using scientific evidence. Students learn to present their
+evaluations in a logical and persuasive manner. They learn general criteria and approaches
+used to assess welfare and then apply that knowledge for assessment of four different
+species in practical settings.
+Prerequisite(s): 15.00 credits including ANSC*1210, ANSC*3080
+Co-requisite(s): ANSC*3090 or ANSC*4090
+Department(s): Department of Animal Biosciences
+ANSC*4050 Biotechnology in Animal Science F (3-2) [0.50]
+The course will provide an overview of how biotechnology has impacted biomedical
+science and animal production. Important principles of recombinant DNA, DNA marker
+identification, stem cell biology, and generation of transgenic animals will be emphasized.
+The current challenges and potential opportunities in biotechnology will also be discussed.
+Prerequisite(s): MBG*2040 or MBG*2400
+Department(s): Department of Animal Biosciences
+ANSC*4090 Applied Animal Behaviour and Welfare W (3-0) [0.50]
+Students will build upon their basic knowledge of animal behaviour and welfare for
+in-depth examination of how genetic selection, housing and management practices affect
+the behaviour, health and well-being of farmed and companion animals. Topics will
+include effects of domestication and artificial selection on behaviour and health traits,
+and how early experience affects adaptability, sexual and maternal behaviour. Emphasis
+is placed on the application of behavioural knowledge to the design of housing and
+management procedures that promote healthy, productive animals and good welfare.
+Prerequisite(s): ANSC*3080, ANSC*3090
+Department(s): Department of Animal Biosciences
+ANSC*4100 Applied Environmental Physiology and Animal Housing W (3-0) [0.50]
+Basic concepts of environmental physiology and their application to animal housing and
+management will be introduced. The course will review the physics of heat flow, light
+and air quality as they relate to animal biology and health. Other aspects, such as the
+physical environment, that impact on animal health and well-being will be discussed.
+Prerequisite(s): ANSC*3080
+Department(s): Department of Animal Biosciences
+ANSC*4230 Challenges and Opportunities in Dairy Cattle Production F (0-6) [0.50]
+This course will provide senior level students with experience in working as a team to
+propose solutions to dairy cattle industry problems. Teams of students will critically
+assess dairy cattle-related businesses at the farm or industry level under the supervision
+of a faculty member.
+Prerequisite(s): ANSC*3080, ANSC*3120, MBG*3060
+Restriction(s): Instructor consent required.
+Department(s): Department of Animal Biosciences
+ANSC*4260 Beef Cattle Nutrition W (3-2) [0.50]
+This course is designed for students to evaluate problems in feeding beef cattle. Relevant
+aspects of digestion and metabolism of nutrients as well as current issues of feeding beef
+cattle and diagnosing nutritional deficiencies will be included.
+Prerequisite(s): ANSC*3120
+Department(s): Department of Animal Biosciences
+2020-2021 Undergraduate Calendar Revision:
+542 XII. Course Descriptions, Animal Science
+ANSC*4270 Dairy Cattle Nutrition F (3-2) [0.50]
+Students will learn how nutrients are transformed from feed into milk and bodies of dairy
+animals. There will be an emphasis on feed management on farms and developing skills
+in formulation and evaluation of rations using computer models.
+Prerequisite(s): ANSC*3120
+Department(s): Department of Animal Biosciences
+ANSC*4280 Poultry Nutrition F (3-0) [0.50]
+This course is designed to evaluate basic and applied poultry nutrition. Students will
+learn nutrient requirements of poultry, feeding value of ingredients used in poultry feed
+formulation and how feeding affects the environment, growth, reproduction, health, and
+composition of poultry products for human consumption.
+Prerequisite(s): ANSC*3120
+Department(s): Department of Animal Biosciences
+ANSC*4290 Swine Nutrition F (3-0) [0.50]
+This course is designed to explore details of evaluating feed ingredients and formulating
+diets for swine. Students will use models to evaluate various aspects of nutrient partitioning
+for growth and reproduction in pigs.
+Prerequisite(s): ANSC*3120
+Department(s): Department of Animal Biosciences
+ANSC*4350 Experiments in Animal Biology W (0-6) [0.50]
+This course provides an opportunity for directed hands-on projects involving live animals
+and laboratory techniques. A set of selected projects will be provided by Animal
+Biosciences faculty within their broad fields of study.
+Prerequisite(s): 14.00 credits including ANSC*3080
+Restriction(s): Restricted to students in BSCH.ABIO, BSAG.ANSC and BBRM.EQM.
+Instructor consent required.
+Department(s): Department of Animal Biosciences
+ANSC*4470 Animal Metabolism W (3-0) [0.50]
+Current concepts in whole animal metabolism and the quantitative techniques used to
+measure whole body metabolic kinetics will be presented. Tissue and organ specific
+biochemical processes will be integrated with whole body control mechanisms.
+Prerequisite(s): NUTR*3210
+Department(s): Department of Animal Biosciences
+ANSC*4490 Applied Endocrinology W (3-0) [0.50]
+This course examines the endocrine systems of farm animals and their applications to
+improve and monitor the production, performance, behavior and health of livestock.
+Considerable emphasis will be placed upon understanding how knowledge of endocrine
+regulation can be applied within animal production systems.
+Prerequisite(s): ANSC*3080
+Department(s): Department of Animal Biosciences
+ANSC*4560 Pet Nutrition F (3-0) [0.50]
+This course covers nutrient requirements, feed formulation and nutritional idiosyncrasies
+for dogs, cats, and exotic pets.
+Prerequisite(s): NUTR*3210
+Department(s): Department of Animal Biosciences
+ANSC*4610 Critical Analysis in Animal Science W (3-0) [0.50]
+Students are guided to independently research and critically review a topic of emerging
+importance in animal biosciences. Students select a topic in consultation with the
+instructor.
+Prerequisite(s): 15.00 credits including 2.00 in ANSC or EQN
+Department(s): Department of Animal Biosciences
+ANSC*4650 Comparative Immunology W (3-0) [0.50]
+This course gives an overview of the immune defense mechanisms of domestic species,
+and to compare common and unique defense strategies developed for resisting microbial
+and viral infections. Topics include innate and acquired immunity, evolution of the
+immune system, immunoregulation, and the host response to pathogen invasion.
+Prerequisite(s): ANSC*3080
+Department(s): Department of Animal Biosciences
+ANSC*4700 Research in Animal Biology I S,F,W (6-0) [0.50]
+This course is an opportunity for those students potentially interested in postgraduate
+studies to work with a committed faculty advisor to research a problem and design
+experiment(s) that address a solution. Evaluation of the course requires a substantive
+literature review and to write a research proposal. Selection of a faculty supervisor and
+approval from course coordinator must be obtained before course selection.
+Prerequisite(s): 14.00 credits
+Restriction(s): Registered in Animal Biology Major or Animal Science Major.
+Restriction(s): Instructor consent required.
+Department(s): Department of Animal Biosciences
+ANSC*4710 Research in Animal Biology II S,F,W (0-6) [0.50]
+This course is a continuation of ANSC*4700, Research in Animal Biology I. It allows
+more sophisticated projects to be undertaken or to provide an opportunity to build upon
+the work of ANSC*4700 . Evaluation of the course requires a greater emphasis on data
+analysis or experimental design than for ANSC*4700. Selection of a faculty advisor and
+approval of course coordinator must be obtained before course selection.
+Prerequisite(s): ANSC*4700
+Restriction(s): Registration in Animal Biology Major or Animal Science Major.
+Instructor consent required.
+Department(s): Department of Animal Biosciences
+Revision: 2020-2021 Undergraduate Calendar
+XII. Course Descriptions, Animal Science 543
+Anthropology
+Department of Sociology and Anthropology
+The Department of Sociology and Anthropology offers three types of courses: sociology
+courses with the prefix SOC*; anthropology courses with the prefix ANTH*; and
+departmental courses with the prefix SOAN*.
+Courses will normally be offered in the semesters designated. For information on other
+semesters these courses will be offered and the semesters those courses without
+designations will be offered, please check with the department. In addition to regularly
+scheduled courses, students may elect to do independent study. A student who wishes to
+do a reading course should first consult the professor with whom they wish to work. Please
+note: a student is allowed a total of 1.00 credits only for reading courses.
+Please note: The availability of third and fourth year seminar courses will vary. Students
+must check with the Department of Sociology and Anthropology to see when seminar
+courses are available.
+ANTH*1120 Biological Anthropology F (3-0) [0.50]
+In this course students will be introduced to the central concepts of biological
+anthropology. Potential topics to be explored include hominid evolution, contemporary
+human diversity, nutrition and diet, and an introduction of forensic anthropology and
+paleopathology.
+Department(s): Department of Sociology and Anthropology
+ANTH*1150 Introduction to Anthropology F,W (3-0) [0.50]
+This course deals with humankind from a broad historical and cross-cultural perspective.
+Theoretical models, case studies and specific methods will be presented. Course topics
+may include the origin and transformations of human society, the relationship between
+biological and cultural traits, human language, variation in family structure and religion,
+the economic and political aspects of human society.
+Offering(s): Also offered through Distance Education format.
+Department(s): Department of Sociology and Anthropology
+ANTH*2180 Public Anthropology W (3-0) [0.50]
+This course explores approaches to public, engaged anthropology, and the application
+of anthropological theory and practice. Students will develop insights into the roles of
+anthropology and anthropological perspectives for diverse occupations, fields, and policies,
+and within contemporary public debates and discussions.
+Prerequisite(s): 1 of ANTH*1150, IDEV*1000, SOC*1100
+Department(s): Department of Sociology and Anthropology
+ANTH*2230 Regional Ethnography F (3-0) [0.50]
+This course offers a survey of ethnographic studies on selected cultural/geographical
+area(s) of the world. Topics covered may include social, economic and political systems,
+the colonial encounter, and the theoretical, methodological and political contexts of
+ethnographic representation.
+Prerequisite(s): ANTH*1150
+Department(s): Department of Sociology and Anthropology
+ANTH*2660 Contemporary Indigenous Peoples in Canada W (3-0) [0.50]
+An anthropological analysis of the impact of settler society on Indigenous cultures.
+Particular emphasis will be given to contemporary issues relating to Indigenous peoples
+in Canada, including First Nations, Inuit, and Métis peoples. Topics to be covered may
+include education, treaties and reserves, land claims, government administration, economic
+development, and reconciliation.
+Prerequisite(s): 1 of ANTH*1150, IDEV*1000, SOC*1100
+Department(s): Department of Sociology and Anthropology
+ANTH*3550 Medical Anthropology W (3-0) [0.50]
+This course provides an introduction to medical anthropology and the anthropology of
+health. We will examine theory, methods, practice, and contemporary and historical
+topical issues.
+Prerequisite(s): SOAN*2120, (1 of ANTH*2160 , ANTH*2180, ANTH*2230,
+ANTH*2660, IDEV*2500)
+Department(s): Department of Sociology and Anthropology
+ANTH*3650 The Anthropology of Indigenous Peoples Before Canada F (3-0) [0.50]
+This course is an anthropological exploration of the events that took place before the
+arrival of Europeans in what is now Canada. It draws on evidence from a variety of
+intellectual perspectives including Indigenous knowledges, oral histories, anthropology,
+archaeology, history, genetics, and linguistics to investigate current understandings and
+uses of the past.Archaeological time sequences are covered along with stories and debates
+about human history in the time period before Canada.
+Prerequisite(s): (1 of ANTH*2160 , ANTH*2180, IDEV*2000), (1 of ANTH*2230,
+ANTH*2660, IDEV*2400, IDEV*2500)
+Restriction(s): ANTH*2650
+Department(s): Department of Sociology and Anthropology
+ANTH*3690 Engaging Anthropological Theory F (3-0) [0.50]
+This course offers an analysis of the main trends in anthropological theory and practice.
+Areas of discussion will include the crisis of representation, interpretive anthropology,
+feminist anthropology, and agency and structure debates.
+Prerequisite(s): ANTH*2230, ( ANTH*2160 or ANTH*2180), SOAN*2120
+Department(s): Department of Sociology and Anthropology
+ANTH*3770 Kinship, Family, and Power W (3-0) [0.50]
+This course explores the changing nature of what it means to be a family from
+anthropological and cross-cultural perspectives. Topics of discussion include kinship,
+descent, marriage, our relationships to ancestors, gender and power relations, and the
+politics of kinship ties. In addition, the course considers the relevance of kinship to
+contemporary issues such as gay, lesbian, bisexual and transgendered families, the use
+of reproductive technologies, and international adoptions.
+Prerequisite(s): ANTH*2230, ( ANTH*2160 or ANTH*2180), SOAN*2120
+Department(s): Department of Sociology and Anthropology
+ANTH*3840 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 10.00 credits including ( ANTH*2160 , ANTH*2180), SOAN*2120
+Department(s): Department of Sociology and Anthropology
+ANTH*3850 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 10.00 credits including ( ANTH*2160 , ANTH*2180), SOAN*2120
+Department(s): Department of Sociology and Anthropology
+ANTH*3950 Special Projects in Anthropology S,F,W (3-0) [0.50]
+This special study option/reading course is designed to provide advanced undergraduates
+with an opportunity to explore independently the frontiers and foundations of a field of
+knowledge. Under supervision, the student will study in greater depth topics related to
+regular upper-level courses offered in the department which the student has taken or is
+taking. Permission of the instructor who will be supervising the study is required.
+Prerequisite(s): 10.00 credits
+Restriction(s): Instructor consent required. Please note, a student is allowed a total of
+1.00 credits only for reading courses.
+Department(s): Department of Sociology and Anthropology
+ANTH*4300 Anthropological Issues F (3-0) [0.50]
+Current issues and future trends in the discipline of socio-cultural anthropology will
+provide the subject matter of this variable content course. This course is meant to provide
+an opportunity for socio-cultural anthropology majors to consider the latest developments
+in the sub-discipline. Course topics will be announced and course outlines will be available
+at course selection time.
+Prerequisite(s): 12.50 credits including ANTH*3690, SOAN*3070
+Department(s): Department of Sociology and Anthropology
+ANTH*4440 Culture, Rights and Development W (3-0) [0.50]
+This course examines the theoretical and practical problems associated with respecting
+local cultures while also respecting human dignity universally. Various definitions of
+'development' will be explored in terms of how they reflect cultural values and global
+inequalities.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or IDEV*2300), (IDEV*2100
+or SOAN*3070)
+Department(s): Department of Sociology and Anthropology
+ANTH*4540 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or SOC*3310), SOAN*3070
+Department(s): Department of Sociology and Anthropology
+2020-2021 Undergraduate Calendar Revision:
+544 XII. Course Descriptions, Anthropology
+ANTH*4550 Topics in the Anthropology of Health F (3-0) [0.50]
+This seminar focuses on the anthropological analyses of medical and health issues among
+current and past populations. The course is based on case studies. It will provide students
+with a grounding in the theoretical approaches appropriate to anthropological
+considerations of issues relating to health.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or IDEV*2300), (IDEV*2100
+or SOAN*3070)
+Department(s): Department of Sociology and Anthropology
+ANTH*4640 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or SOC*3310), SOAN*3070
+Department(s): Department of Sociology and Anthropology
+ANTH*4700 Issues in Contemporary Anthropological Theory W (3-0) [0.50]
+This course critically examines current anthropological theories, which may include
+post-structuralism, post-modernism, neo-Marxism and processual approaches.Attention
+may also be given to the theoretical and political implications of constructionism and
+calls for ethnographic reflexivity.
+Prerequisite(s): 12.50 credits including ANTH*3690, SOAN*3070
+Department(s): Department of Sociology and Anthropology
+ANTH*4740 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or SOC*3310), SOAN*3070
+Department(s): Department of Sociology and Anthropology
+ANTH*4840 Seminar in Anthropology F,W (3-0) [0.50]
+This course will be offered as a structured seminar on various topics depending upon the
+interests of the faculty member teaching the course. Topics will be announced and course
+outlines will be available at course selection. The availability of third and fourth year
+seminar courses will vary. Students must check with the Department of Sociology and
+Anthropology to see when seminar courses are available.
+Prerequisite(s): 12.50 credits including (ANTH*3690 or SOC*3310), SOAN*3070
+Department(s): Department of Sociology and Anthropology
+ANTH*4880 Special Projects in Anthropology S,F,W (3-0) [0.50]
+This special study/reading course option is designed to provide advanced undergraduates
+with an opportunity to explore independently the frontiers and foundations of a field of
+knowledge. Under supervision, the student will study in greater depth topics related to
+regular upper-level courses offered in the department which the student has taken or is
+taking. Permission of the instructor who will be supervising the project is required.
+Prerequisite(s): 12.50 credits
+Restriction(s): Instructor consent required. Please note, a student is allowed a total of
+1.00 credits only for reading courses.
+Department(s): Department of Sociology and Anthropology
+ANTH*4890 Special Projects in Anthropology S,F,W (3-0) [0.50]
+This special study/reading course option is designed to provide advanced undergraduates
+with an opportunity to explore independently the frontiers and foundations of a field of
+knowledge. Under supervision, the student will study in greater depth topics related to
+regular upper-level courses offered in the department which the student has taken or is
+taking. Permission of the instructor who will be supervising the project is required.
+Prerequisite(s): 12.50 credits
+Restriction(s): Instructor consent required. Please note, a student is allowed a total of
+1.00 credits only for reading courses.
+Department(s): Department of Sociology and Anthropology
+ANTH*4900 Honours Anthropology Thesis I S,F,W (3-0) [0.50]
+Development and design of an honours thesis proposal conducted under the supervision
+of a faculty member. Recommended to honours major students.
+Prerequisite(s): 15.00 credits including ANTH*3690, (SOAN*3070 or SOAN*3120)
+Restriction(s): Instructor consent required. As well as a cumulative average of 70%
+in all Sociology and Anthropology courses.
+Department(s): Department of Sociology and Anthropology
+ANTH*4910 Honours Anthropology Thesis II S,F,W (3-0) [0.50]
+Completion and presentation of honours thesis.
+Prerequisite(s): ANTH*4900
+Restriction(s): Instructor consent required.
+Department(s): Department of Sociology and Anthropology
+Revision: 2020-2021 Undergraduate Calendar
+XII. Course Descriptions, Anthropology 545
+Arabic
+School of Languages and Literature
+ARAB*1100 Introductory Arabic I F (4-0) [0.50]
+This course provides an introduction to Arabic script, articulation of the sounds, basic
+grammar, and is designed to enable students to begin communicating in Modern Standard
+Arabic (MSA). ). This course is not intended for students with native or near-native
+fluency in Arabic. Students with advanced Arabic may be removed from the course.
+Department(s): School of Languages and Literatures
+ARAB*1110 Introductory Arabic II W (4-0) [0.50]
+This course is a continuation of Introductory Arabic I with emphasis on oral work.
+Heritage speakers ofArabic may be admitted with permission of the instructor. However,
+this course is not intended for students with native or near-native fluency in Arabic.
+Students with advanced Arabic may be removed from the course.
+Prerequisite(s): ARAB*1100
+Department(s): School of Languages and Literatures
+2020-2021 Undergraduate Calendar Revision:
+546 XII. Course Descriptions, Arabic
+Art History
+School of Fine Art and Music
+Students with a special interest in particular courses in Art History should consult the
+School concerning prerequisites.
+1. Some Art History lecture courses at the 2000- and 3000-level are offered on alternate
+years only and manyArt History seminars have variable content. For course offerings
+and course descriptions please see the home page for the School of FineArts & Music
+www.uoguelph.ca/sofam/
+2. Many Art History lecture courses are reading-intensive while seminar courses are
+writing and presentation-intensive.
+3. Honours major students in Art History are required to take two 4000-level seminars
+(excluding ARTH*4620 ), preferably in their 7th and 8th semesters. Please see the
+individual course descriptions for pre-requisites and restrictions for these courses.
+ARTH*1510 Art Historical Studies I F (3-0) [0.50]
+This course considers the visual arts in the Western tradition from prehistory through the
+MiddleAges. Emphasis will be placed on historical and critical analysis of key monuments
+and on the prerequisite technologies, as well as on various ways of looking at the visual
+past and present.
+Department(s): School of Fine Art and Music
+ARTH*1520 Art Historical Studies II W (3-0) [0.50]
+A consideration of the visual arts in the Western tradition. Emphasis will be placed on
+historical and critical analysis of key monuments and on the prerequisite technologies,
+as well as on various ways of looking at the visual past and present. Focus will be on the
+visual arts from the Renaissance to today.
+Department(s): School of Fine Art and Music
+ARTH*2050 Modern Latin American Art F (3-0) [0.50]
+This course is an introduction to the study of visual culture and theory from South and
+Central America, Mexico and the Caribbean featuring art from the 20th century to the
+present.
+Offering(s): Offered in odd-numbered years.
+Prerequisite(s): 2.00 credits or (ARTH*1510 or ARTH*1520)
+Department(s): School of Fine Art and Music
+CHEM*2070 Structure and Spectroscopy S,W (3-1.5) [0.50]
+This course provides an introduction to spectroscopy and its relationship to molecular
+structure and dynamics. Rotational, vibrational, electronic and magnetic resonance
+spectroscopies will be studied. Concepts introduced in CHEM*2060 will be applied to
+chemical and biochemical problems through spectroscopic techniques. Central to this
+course is the use of spectroscopy for the determination of molecular structures and the
+investigation of molecular motions.
+Prerequisite(s): CHEM*2060
+Department(s): Department of Chemistry
